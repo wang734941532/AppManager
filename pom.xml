@@ -9,7 +9,7 @@
 		<jdk.version>1.8</jdk.version>
 		<spring.version>4.3.14.RELEASE</spring.version>
 	</properties>
-	
+	<!--test-->
 	<build>
 		<plugins>
 			<plugin>
